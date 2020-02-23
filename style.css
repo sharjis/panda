@@ -10,13 +10,14 @@
     color: #FF136F;
 }
 .buy-now-button{
-    background-image: linear-gradient(to right, #00d2ff 0%, #3a7bd5 51%, #00d2ff 100%)}
+    background-image: linear-gradient(to right, #00d2ff 0%, #3a7bd5 51%, #00d0ffe3 100%)
 
 
     
 }
 .container{
    margin:50px 100px;
+   
 }
 .cat1, .cat2, .cat3{
     padding: 10px 30px;
@@ -46,6 +47,16 @@
     background-color: white;
     border-top: none;
 }
-.footer-padding{
-    padding-bottom: 500px;
+#subscribe{
+    height: 300px;
+
 }
+#subscribe h6{
+    color: gray;
+}
+.orange-bg-two{
+    background-color: #fceae8;
+    border-radius: 10px;
+    
+}
+
